@@ -1,5 +1,6 @@
 # Notas sobre Python
 Ejercicios básicos de sintaxis y lógica
+
 """1. Variables y Operaciones"""
 
 nombre = "Camilo"
